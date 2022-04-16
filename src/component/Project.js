@@ -4,7 +4,7 @@ import realestate from '../assets/realestate.jpg'
 
 const Project = () => {
   return (
-    <div className='bg-[#0a192f] w-full md:h-screen text-gray-300'>
+    <div name='project' className='bg-[#0a192f] w-full md:h-screen text-gray-300'>
         <div className='mx-auto flex flex-col justify-center max-w-[1000px] h-full'>
             <div>
                 <p className='border-b-4 border-pink-600 inline fond-bold text-4xl'>Projects</p>
