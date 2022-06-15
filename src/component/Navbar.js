@@ -59,13 +59,13 @@ const Navbar = () => {
       <div className="hidden left-0 top-[35%] lg:flex flex-col fixed">
         <ul>
           <li className="ml-[-100px] hover:ml-[-10px] flex flex-col duration-300 justify-center items-center w-[160px] h-[60px] bg-blue-500 ">
-            <a className="flex justify-between w-full items-center" href="/">Linkedin <FaLinkedin size={30} /></a>
+            <a className="flex justify-between w-full items-center" href="http://linkedin.com/in/aryan-gupta-294881212" target="_blank" rel="noreferrer">Linkedin <FaLinkedin size={30} /></a>
           </li>
           <li className="ml-[-100px] hover:ml-[-10px] flex flex-col duration-300 justify-center items-center w-[160px] h-[60px] bg-[#333333] ">
-            <a className="flex justify-between w-full items-center" href="/">GitHub <FaGithub size={30} /></a>
+            <a className="flex justify-between w-full items-center" href="https://github.com/Aryanhac" target="_blank" rel="noreferrer">GitHub <FaGithub size={30} /></a>
           </li>
           <li className="ml-[-100px] hover:ml-[-10px] flex flex-col duration-300 justify-center items-center w-[160px] h-[60px] bg-[#6fc2b0] ">
-            <a className="flex justify-between w-full items-center" href="/">Email <HiOutlineMail size={30} /></a>
+            <a className="flex justify-between w-full items-center" href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noreferrer">Email <HiOutlineMail size={30} /></a>
           </li>
           <li className="ml-[-100px] hover:ml-[-10px] flex flex-col duration-300 justify-center items-center w-[160px] h-[60px] bg-[#565f69] ">
             <a className="flex justify-between w-full items-center" href="/">Resume <BsFillPersonLinesFill size={30} /></a>
