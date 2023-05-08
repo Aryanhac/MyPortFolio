@@ -15,8 +15,7 @@ const About = () => {
                 <p>hi.Please take a look around</p>
             </div>
             <div>
-                I'm computer Science Student at the Indian Institution of Information Technology,Vadodara. I do web development at MERN.
-                I'm passionate to learn new Technologies.
+               I am pursuing B.tech degree from iiitvadodara in Computer Science and Engineering branch and will be graduating in 2024. I am a Full Stack Web Developer and Web Dev Co-lead in GDSC iiitvadodara. I have experience developing MERN stack-based applications from projects and internships. I am good to solve DSA problems. I have solved 600+ problem on LeetCode and GFG platforms . Currently, I am exploring DevOps technology.
             </div>
         </div>
     </div>

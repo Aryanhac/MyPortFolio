@@ -5,6 +5,9 @@ import Ecommerce from '../assets/Ecommerce.png'
 import Chatting from '../assets/chatting.jpg'
 import PortFolio from '../assets/PortFolio.png'
 import Weather from '../assets/Weather.png'
+import kreiva from '../assets/Kreiva.png'
+import pythonCode from '../assets/PythonCode.png'
+import capstone from '../assets/capstone.png'
 
 const Project = () => {
     return (
@@ -15,7 +18,7 @@ const Project = () => {
                     <p className='py-3'>There are some Project I have worked</p>
                 </div>
                 <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4 py-4 text-center'>
-                    <div style={{ backgroundImage: `url(${Ecommerce})` }} className='content-div shadow-lg shadow-[#040c16] flex justify-center group items-center mx-auto rounded-md  container'>
+                    <div style={{ backgroundImage: `url(${Ecommerce})` }} className='content-div bg-cover shadow-lg shadow-[#040c16] flex justify-center group items-center mx-auto rounded-md  container'>
                         {/* hover */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl text-white font-bold tracking-wider'>
@@ -23,7 +26,7 @@ const Project = () => {
                             </span>
                         </div>
                     </div>
-                    <div style={{ backgroundImage: `url(${Travel})` }} className='content-div shadow-lg shadow-[#040c16] flex justify-center group items-center mx-auto rounded-md  container'>
+                    <div style={{ backgroundImage: `url(${Travel})` }} className='content-div bg-cover shadow-lg shadow-[#040c16] flex justify-center group items-center mx-auto rounded-md  container'>
                         {/* hover */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl text-white font-bold tracking-wider'>
@@ -31,15 +34,15 @@ const Project = () => {
                             </span>
                         </div>
                     </div>
-                    <div style={{ backgroundImage: `url(${TicTac})` }} className='content-div shadow-lg shadow-[#040c16] flex justify-center group items-center mx-auto rounded-md  container'>
-                        {/* hover */}
+                    <div style={{ backgroundImage: `url(${TicTac})` }} className='content-div bg-cover shadow-lg shadow-[#040c16] flex justify-center group items-center mx-auto rounded-md  container'>
+                        {/* hover */} 
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl text-white font-bold tracking-wider'>
                                 TicTacToe
                             </span>
                         </div>
                     </div>
-                    <div style={{ backgroundImage: `url(${Chatting})` }} className='content-div shadow-lg shadow-[#040c16] flex justify-center group items-center mx-auto rounded-md  container'>
+                    <div style={{ backgroundImage: `url(${Chatting})` }} className='content-div bg-cover shadow-lg shadow-[#040c16] flex justify-center group items-center mx-auto rounded-md  container'>
                         {/* hover */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl text-white font-bold tracking-wider'>
@@ -47,7 +50,7 @@ const Project = () => {
                             </span>
                         </div>
                     </div>
-                    <div style={{ backgroundImage: `url(${PortFolio})` }} className='content-div shadow-lg shadow-[#040c16] flex justify-center group items-center mx-auto rounded-md  container'>
+                    <div style={{ backgroundImage: `url(${PortFolio})` }} className='content-div bg-cover shadow-lg shadow-[#040c16] flex justify-center group items-center mx-auto rounded-md  container'>
                         {/* hover */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl text-white font-bold tracking-wider'>
@@ -55,11 +58,35 @@ const Project = () => {
                             </span>
                         </div>
                     </div>
-                    <div style={{ backgroundImage: `url(${Weather})` }} className='content-div shadow-lg shadow-[#040c16] flex justify-center group items-center mx-auto rounded-md  container'>
+                    <div style={{ backgroundImage: `url(${Weather})` }} className='content-div bg-cover shadow-lg shadow-[#040c16] flex justify-center group items-center mx-auto rounded-md  container'>
                         {/* hover */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl text-white font-bold tracking-wider'>
                                 Weather Information
+                            </span>
+                        </div>
+                    </div>
+                    <div style={{ backgroundImage: `url(${kreiva})` }} className='content-div bg-cover shadow-lg shadow-[#040c16] flex justify-center group items-center mx-auto rounded-md  container'>
+                        {/* hover */}
+                        <div className='opacity-0 group-hover:opacity-100'>
+                            <span className='text-2xl text-white font-bold tracking-wider'>
+                                Kreiva
+                            </span>
+                        </div>
+                    </div>
+                    <div style={{ backgroundImage: `url(${pythonCode})` }} className='content-div bg-cover shadow-lg shadow-[#040c16] flex justify-center group items-center mx-auto rounded-md  container'>
+                        {/* hover */}
+                        <div className='opacity-0 group-hover:opacity-100'>
+                            <span className='text-2xl text-white font-bold tracking-wider'>
+                                Python Code Generation Tool
+                            </span>
+                        </div>
+                    </div>
+                    <div style={{ backgroundImage: `url(${capstone})` }} className='content-div bg-cover shadow-lg shadow-[#040c16] flex justify-center group items-center mx-auto rounded-md  container'>
+                        {/* hover */}
+                        <div className='opacity-0 group-hover:opacity-100'>
+                            <span className='text-2xl text-white font-bold tracking-wider'>
+                                Capstone
                             </span>
                         </div>
                     </div>
