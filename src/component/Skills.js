@@ -22,7 +22,7 @@ import python from '../assets/python.png'
 const Skills = () => {
   return (
     <div name='skills' className="bg-[#0a192f] w-full min-h-screen text-gray-300">
-        <div className='flex flex-col max-w-[1000px] justify-center w-full mx-auto'>
+        <div className='flex flex-col max-w-[1000px] justify-center w-full mx-auto pb-8 '>
             <div>
                 <div className='border-b-4 inline border-pink-600 font-bold text-4xl'>Skills</div>
                 <p className='py-4'>These are the technologies I've worked with</p>

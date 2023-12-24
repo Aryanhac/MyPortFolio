@@ -15,7 +15,7 @@ const About = () => {
                 <p>hi.Please take a look around</p>
             </div>
             <div>
-               I am pursuing B.tech degree from iiitvadodara in Computer Science and Engineering branch and will be graduating in 2024. I am a Full Stack Web Developer and Web Dev Co-lead in GDSC iiitvadodara. I have experience developing MERN stack-based applications from projects and internships. I am good to solve DSA problems. I have solved 600+ problem on LeetCode and GFG platforms . Currently, I am exploring DevOps technology.
+            I specialize in web development and DevOps, with a focus on cloud-based solutions for scalable software architecture. Proficient in JavaScript, React, NodeJS, Java, Docker, and various AWS services, I have hands-on experience building and scaling web applications. I've worked at Tikaj and Mediaalley as a full-stack web developer. Notably, I maintain a 430+ day streak on LeetCode, solving over 640 questions, showcasing my consistent dedication. Additionally, my practical expertise in DevOps tools like Docker, Jenkins, and AWS contributes to efficient continuous integration and delivery processes in application development.
             </div>
         </div>
     </div>

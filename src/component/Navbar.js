@@ -68,7 +68,7 @@ const Navbar = () => {
             <a className="flex justify-between w-full items-center" href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noreferrer">Email <HiOutlineMail size={30} /></a>
           </li>
           <li className="ml-[-100px] hover:ml-[-10px] flex flex-col duration-300 justify-center items-center w-[160px] h-[60px] bg-[#565f69] ">
-            <a className="flex justify-between w-full items-center" href="/">Resume <BsFillPersonLinesFill size={30} /></a>
+            <a className="flex justify-between w-full items-center" href="https://drive.google.com/file/d/1pooXHY8ECq0X3ys4a0prkoNW1AybED90/view?usp=sharing">Resume <BsFillPersonLinesFill size={30} /></a>
           </li>
         </ul>
       </div>
