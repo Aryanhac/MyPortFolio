@@ -60,7 +60,7 @@ const Project = () => {
                         </div>
                     </div>
                     </a>
-                    <a href=''>
+                    <a href='https://aryangportfolio.netlify.app/'>
                     <div style={{ backgroundImage: `url(${PortFolio})` }} className='content-div bg-cover shadow-lg shadow-[#040c16] flex justify-center group items-center mx-auto rounded-md  container'>
                         {/* hover */}
                         <div className='opacity-0 group-hover:opacity-100'>
